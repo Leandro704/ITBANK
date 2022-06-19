@@ -98,6 +98,8 @@
 .sizeContainer{
     height: 150px;
     width: 200px;
+    color: lightgoldenrodyellow;
+    font-style: italic;
 }
 
 .sizeNotices{
@@ -108,11 +110,14 @@
 .sizeTitle{
     height: 30px;
     width: 100%;
+    color: mintcream;
+    font-style: normal;
 }
 
 .sizePrice{
     height: 50px;
     width: 100%;
+    
 }
 
 .spaceItem{
@@ -149,7 +154,7 @@
     }
 
 
-/*.contenedorFooter{
+/* .contenedorFooter{
     display: grid;
     grid-template-columns: repeat(12, 1fr);
     height: 50px;
